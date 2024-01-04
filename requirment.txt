@@ -1,0 +1,23 @@
+==========================================================
+01- Mini Project (Student Enquiry Management Portal)
+==========================================================
+
+Project URL : http://13.232.204.185:8080/
+
+==========================
+Requirements To implement
+==========================
+
+1) Counsellor Registration
+
+2) Counsellor Login
+
+3) Counsellor Dashboard
+
+4) Add Student Enquiry
+
+5) View Student Enquiries
+
+6) Filter Enquiries
+
+7) Forgot Password
